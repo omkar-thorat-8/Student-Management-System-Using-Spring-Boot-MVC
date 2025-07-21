@@ -20,7 +20,7 @@ A simple **Student Management System** web application built using **Spring Boot
 - **Spring MVC**
 - **Spring Data JPA (Hibernate)**
 - **Thymeleaf**
-- **MySQL** (or H2 for testing)
+- **MySQL** 
 - **Maven**
 
 ---
