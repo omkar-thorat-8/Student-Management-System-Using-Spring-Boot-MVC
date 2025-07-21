@@ -27,8 +27,8 @@ A simple **Student Management System** web application built using **Spring Boot
 
 ## 📁 Project Structure
 src/<br>
-├── controller/           # Handles HTTP requests<br>
-├── service/              # Business logic layer<br>
-├── repository/           # Spring Data JPA interfaces<br>
-├── model/                # Student entity<br>
-└── templates/            # Thymeleaf HTML pages<br>
+├── controller/ &nbsp;&nbsp;&nbsp;# Handles HTTP requests<br>
+├── service/    &nbsp;&nbsp;&nbsp;# Business logic layer<br>
+├── repository/ &nbsp;&nbsp;&nbsp;# Spring Data JPA interfaces<br>
+├── model/      &nbsp;&nbsp;&nbsp;# Student entity<br>
+└── templates/  &nbsp;&nbsp;&nbsp;# Thymeleaf HTML pages<br>
